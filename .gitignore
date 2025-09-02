@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Robot Framework
+output.xml
+report.html
+log.html
+*.log
+*.png
+*.robot.log
+*.pkl
+
+# Appium / Selenium
+*.apk
+*.app
+*.ipa
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node (se usar alguma ferramenta JS no projeto)
+node_modules/
