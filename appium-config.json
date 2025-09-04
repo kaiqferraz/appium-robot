@@ -1,0 +1,27 @@
+{
+  "server": {
+    "port": 4723,
+    "host": "localhost",
+    "base-path": "/wd/hub"
+  },
+  "driver": {
+    "uiautomator2": {
+      "uiautomator2ServerInstallTimeout": 120000,
+      "uiautomator2ServerLaunchTimeout": 120000,
+      "androidInstallTimeout": 120000,
+      "adbExecTimeout": 120000,
+      "androidDeviceReadyTimeout": 120000,
+      "newCommandTimeout": 60,
+      "autoGrantPermissions": true,
+      "skipServerInstallation": false,
+      "skipDeviceInitialization": false,
+      "skipUnlock": true,
+      "disableWindowAnimation": true,
+      "disableSuppressAccessibilityService": true
+    }
+  },
+  "log": {
+    "level": "info",
+    "timestamp": true
+  }
+}

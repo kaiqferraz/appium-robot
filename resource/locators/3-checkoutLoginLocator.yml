@@ -1,0 +1,5 @@
+checkout_login:
+  processedToCheckout: accessibility_id=Confirms products for checkout
+  username: id=com.saucelabs.mydemoapp.android:id/nameET
+  password: id=com.saucelabs.mydemoapp.android:id/passwordET
+  loginButton: id=com.saucelabs.mydemoapp.android:id/loginBtn

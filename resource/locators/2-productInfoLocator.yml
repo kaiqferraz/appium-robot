@@ -1,0 +1,7 @@
+productInfo:
+  greenColor: accessibility_id=Green color
+  starsReview: id=com.saucelabs.mydemoapp.android:id/start5IV
+  clickSubmit: accessibility_id=Closes review dialog
+  increaseItemQuantity: accessibility_id=Increase item quantity
+  addProductToCart: accessibility_id=Tap to add product to cart
+  carShopping: id=com.saucelabs.mydemoapp.android:id/cartIV

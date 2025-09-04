@@ -2,7 +2,6 @@
 Resource    ../../base.resource
 
 *** Keywords ***
-Click In Product BackPack
+When the user clicks on the Backpack product
 
-    Wait Until Element Is Visible    ${products.productBackPack}
     Click Element    ${products.productBackPack}

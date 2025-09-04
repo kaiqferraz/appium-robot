@@ -1,0 +1,19 @@
+checkout:
+  fullname: id=com.saucelabs.mydemoapp.android:id/fullNameET
+  addressLine1: id=com.saucelabs.mydemoapp.android:id/address1ET
+  addressLine2: id=com.saucelabs.mydemoapp.android:id/address2ET
+  city: id=com.saucelabs.mydemoapp.android:id/cityET
+  stateRegion: id=com.saucelabs.mydemoapp.android:id/stateET
+  zipCode: id=com.saucelabs.mydemoapp.android:id/zipET
+  country: id=com.saucelabs.mydemoapp.android:id/countryET
+  toPayment: id=com.saucelabs.mydemoapp.android:id/paymentBtn
+
+checkoutPayment:
+  fullname: id=com.saucelabs.mydemoapp.android:id/nameET
+  cardNumber: id=com.saucelabs.mydemoapp.android:id/cardNumberET
+  ExpirationDate: id=com.saucelabs.mydemoapp.android:id/expirationDateET
+  SecurityCode: id=com.saucelabs.mydemoapp.android:id/securityCodeET
+  reviewOrder: id=com.saucelabs.mydemoapp.android:id/paymentBtn
+
+checkoutContinue:
+  continueShopping: id=com.saucelabs.mydemoapp.android:id/shoopingBt
